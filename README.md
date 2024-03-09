@@ -14,27 +14,21 @@
       3. Clone this repository.
       4. Install required Python packages using `pip install -r requirements.txt`.
 ## 3. Usage
-    - Examples: Include examples or code snippets to demonstrate how to use your project.
-    - Configuration: Explain any configuration options or settings users might need to know about.
+    - Can be used to determine what will be the maintenance calories, BMR, weight loss strategy,
+    number of days to goal and the target the goal can be achieved.  
+    - This is a first prototype where we'll be able to add user, delete user, update user, 
+    view all users and also perform the tasks that might be needed in order to reach our 
+    main aim which would be a complete UI based software in which a user can log in 
+    what he/she had in breakfast, lunch and dinner.
 ## 4. Features
-    - List of Features: Outline the main features and functionalities of your project.
+    - List of Features:
+      1. Add user with weight, height, age, gender, and weight loss goals.
+      2. Delete existing user profiles.
+      3. Update user information.
+      4. Look up user details.
+      5. Calculate maintenance calories and weight loss strategies.
 ## 5. Contributing
-    - Guidelines: Explain how others can contribute to your project, including information on submitting bug reports, feature requests, or code contributions.
-    - Code Style: If applicable, provide guidelines or references to your code style.
+    - Guidelines: Contributions are welcome! Please fork the repository, make changes, and submit pull requests.
+    - Code Style: Follow PEP 8 style guidelines for Python code.
 ## 6. Credits
-    - Authors: List the authors or contributors of the project.
-    - Acknowledgments: Mention any individuals or resources that helped inspire or support your project.
-## 7. License
-    - License Information: Specify the license under which your project is distributed.
-## 8. Additional Sections (Optional)
-    - FAQ: Include frequently asked questions and their answers.
-    - Troubleshooting: Provide solutions to common issues or troubleshooting tips.
-    - Roadmap: Outline the future development plans for your project.
-    - Changelog: Document changes and updates to your project over time.
-
-## Markdown Formatting Tips
-  - Use headings (#, ##, ###, etc.) to structure your document.
-  - Utilize lists (- or 1.) for easy-to-read information.
-  - Include links to relevant resources or documentation.
-  - Add code blocks using triple backticks (```) for code snippets.
-  - Use images or diagrams to enhance understanding where applicable.
+    - Authors: Jivin Chugh, Ram Grover and KanwarPreet Kaur.
