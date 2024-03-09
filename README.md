@@ -1,8 +1,7 @@
 
-### Please use the following template to add a ReadMe for your repo.
 
 ## 1. Project Title and Description
-    - Title: Provide a clear and concise title for your project.
+    - Title: HEALTH APP
     - Description: Give a brief overview of what your project does and its purpose.
 ## 2. Installation
     - Dependencies: List any dependencies or prerequisites required to use your project.
