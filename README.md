@@ -28,7 +28,8 @@
       4. Look up user details.
       5. Calculate maintenance calories and weight loss strategies.
 ## 5. Contributing
-    - Guidelines: Contributions are welcome! Please fork the repository, make changes, and submit pull requests.
+    - Guidelines: Contributions are welcome! Please fork the repository, make changes, 
+    and submit pull requests.
     - Code Style: Follow PEP 8 style guidelines for Python code.
 ## 6. Credits
     - Authors: Jivin Chugh, Ram Grover and KanwarPreet Kaur.
