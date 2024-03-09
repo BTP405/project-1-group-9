@@ -7,8 +7,12 @@
     Date on which the target can be achieved) that any health professional might be using 
     in order to ensure that he/she stays on the track.
 ## 2. Installation
-    - Dependencies: List any dependencies or prerequisites required to use your project.
-    - Installation Instructions: Provide step-by-step instructions on how to install and set up your project.
+    - Dependencies: This project requires Python and MongoDB.
+    - Installation Instructions:
+      1. Install Python (if not already installed) from [Python's official website](https://www.python.org/).
+      2. Install MongoDB from [MongoDB's official website](https://www.mongodb.com/try/download/community).
+      3. Clone this repository.
+      4. Install required Python packages using `pip install -r requirements.txt`.
 ## 3. Usage
     - Examples: Include examples or code snippets to demonstrate how to use your project.
     - Configuration: Explain any configuration options or settings users might need to know about.
