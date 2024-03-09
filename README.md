@@ -1,6 +1,9 @@
 ## 1. Project Title and Description
     - Title: HEALTH APP
-    - Description: This is a health app that is basically an interface that can be used to track our weightloss journey, also it can give us precise calculations to what maintainance calories must be consumed in order to ensure that we get to our desired goal; also it gives other necessary information (such as BMR, Daily Cal Intake to reach the goal, Date on which the target can be achieved) that any health professional might be using in order to ensure that he/she stays on the track.
+    - Description: This is a health app that is basically an interface that can be used to track our weightloss journey, 
+    also it can give us precise calculations to what maintainance calories must be consumed in order to ensure that we get to our desired goal; 
+    it can also give other necessary information (such as BMR, Daily Cal Intake to reach the goal, Date on which the target can be achieved) 
+    that any health professional might be using in order to ensure that he/she stays on the track.
 ## 2. Installation
     - Dependencies: List any dependencies or prerequisites required to use your project.
     - Installation Instructions: Provide step-by-step instructions on how to install and set up your project.
